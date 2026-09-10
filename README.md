@@ -1,2 +1,0 @@
-# fitness
-ftnss-app
